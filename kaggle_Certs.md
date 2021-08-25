@@ -5,16 +5,16 @@
 
 Upon completing the 1st week of 30DaysOfML you complete as well the Python course, and you get a certification
 
-![Python]()
+![Python](https://github.com/ayoub-berdeddouch/30_DaysofML_kaggle/blob/main/Ayoub%20Berdeddouch%20-%20Python.png)
 
 
 # Intro to Machine Learning & Intermediate Machine Learning
 
 Upon completing the 2nd week of 30DaysOfML you complete as well the Intro to ML & Intermediate ML course, and you get 2 certifications
 
-![Python]()
+![Intro to ML](https://github.com/ayoub-berdeddouch/30_DaysofML_kaggle/blob/main/Ayoub%20Berdeddouch%20-%20Intro%20to%20Machine%20Learning.png)
 
-![Python]()
+![Intermediate ML](https://github.com/ayoub-berdeddouch/30_DaysofML_kaggle/blob/main/Ayoub%20Berdeddouch%20-%20Intermediate%20Machine%20Learning.png)
 
 # 30 Days of ML Competition
 
@@ -26,7 +26,8 @@ Given a dataset you compete with other kagglers within the final 2 weeks of the 
 * my 3rd submssion to the competition got me rank 116 using some Hyper params fine tuning of XGBoost
 * my 4th submssion to the competition got me rank 20 using Blending of XGBoost
 
-![Rank 20]()
+![Rank 20](https://github.com/ayoub-berdeddouch/30_DaysofML_kaggle/blob/main/Rank20OfKaggle.PNG)
+![Rank 20_](https://github.com/ayoub-berdeddouch/30_DaysofML_kaggle/blob/main/rank20_30DofML.PNG)
 
 
 Note: just 1 week to finish the competition.
