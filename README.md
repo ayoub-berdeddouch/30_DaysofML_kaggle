@@ -21,7 +21,7 @@ You don't need programming experience and can complete the course at your own pa
 |13_08_2021|12|Intermediate ML: Lesson 1 (Introduction), Lesson 2 (Missing Values), Lesson 3 (Categorical Variables)|[Day_12_Link]()|Done ✅ |
 |14_08_2021|13|Intermediate ML: Lesson 4 (Pipelines), Lesson 5 (Cross-Validation)|[Day_13_Link]()|Done ✅ |
 |15_08_2021|14|Intermediate ML: Lesson 6 (XGBoost), Lesson 7 (Data Leakage)|[Day_14_Link]()|Done ✅ |
-|16_08_2021 till 31-08-2021|15 - 31|Get started with the competition.|[Day_15_Link]()|**on going** ⌛ |
+|16_08_2021 till 31-08-2021|15 - 31|Get started with the competition.|[Day_15_Link]()|Done ✅ Rank 19/7540 |
 
 
 
