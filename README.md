@@ -24,7 +24,13 @@ You don't need programming experience and can complete the course at your own pa
 |16_08_2021 till 31-08-2021|15 - 31|Get started with the competition.|[Day_15_Link]()|Done ✅ Rank 19/7540 |
 
 
+-------------------
 
+# Final Leaderboard ( Private) of the Competition
+
+🎉🎉🎉I got Rank 19/7540 Public Leaderboard 🎉🎉🎉
+
+![Final_Leaderboard_30DaysOfML](https://user-images.githubusercontent.com/24941662/132369489-13c5d092-84b6-4554-85c3-5162e2605917.PNG)
 
 -------------------
 
