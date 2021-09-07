@@ -31,3 +31,25 @@ Given a dataset you compete with other kagglers within the final 2 weeks of the 
 
 
 Note: just 1 week to finish the competition.
+
+
+# Final day of the Competition
+
+
+🎉🎉🎉I got Rank 16/7540 Public Leaderboard 🎉🎉🎉
+![Top1%_16_over_7420](https://user-images.githubusercontent.com/24941662/132369048-d4f0e058-ddeb-4f74-a193-cd19e22cf241.png)
+![Rank16_30DaysML](https://user-images.githubusercontent.com/24941662/132369010-4ecc4e87-763e-4303-a705-e1075fba391a.PNG)
+
+
+# Final Leaderboard ( Private) of the Competition
+
+🎉🎉🎉I got Rank 19/7540 Public Leaderboard 🎉🎉🎉
+
+![Final_Leaderboard_30DaysOfML](https://user-images.githubusercontent.com/24941662/132369489-13c5d092-84b6-4554-85c3-5162e2605917.PNG)
+
+
+
+
+
+
+
